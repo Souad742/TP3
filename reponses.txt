@@ -1,0 +1,9 @@
+//réponses de la question 2 du tp
+
+1- la fonction de main qui est testée dans test_main.c est:
+static int parse_args(int argc, char * argv[]).
+2- les entrées de tests qui ont été choisies:
+argc: donne le nombre d'éléments de la ligne de commande
+argv[]: contient ces éléments sous la forme d'un tableau de chaînes de caractères: 
+- argv[0] contient le nom du programme, argv[1] est le nombre de rennes.
+3- il ne manque pas de test sur argc et argv[].
